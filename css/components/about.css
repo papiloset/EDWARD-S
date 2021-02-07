@@ -1,0 +1,28 @@
+i {
+	font-size: 100px;
+	color: #3A4C1A;
+}
+i:hover{
+	color: magenta;
+}
+
+p {
+	text-align: center;
+}
+.text {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 30px;
+	margin: 20px 150px;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+.aboutpage {
+	background-color: #C5CBD3;
+}
+

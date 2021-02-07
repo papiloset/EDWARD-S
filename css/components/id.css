@@ -1,0 +1,11 @@
+
+.idcards {
+	display: flex;
+	flex-wrap: wrap;
+}
+.id {
+	flex-basis: 450px;
+	flex-grow: 1;
+	margin: 20px;
+	padding: 30px;
+}

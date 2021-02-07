@@ -1,0 +1,30 @@
+.c1 {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.c2 {
+	display: flex;
+	flex-wrap: wrap;
+
+}
+
+.c3 {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.f {
+	padding: 10px;
+	margin: 1px;
+	flex-basis: 400px;
+
+}
+
+.f1 {
+	padding: 10px;
+	margin: 50px;
+	flex-basis: 420px;
+}
+
+
